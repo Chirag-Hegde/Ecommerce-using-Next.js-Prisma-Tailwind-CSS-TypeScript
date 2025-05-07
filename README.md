@@ -515,16 +515,5 @@ Please ensure that your code follows the project's coding style and conventions.
 Additionally, write clear commit messages and provide a detailed description in your pull request to facilitate the review process.
 ```
 
-<hr>
 
-## ©️ License 
 
-The e-commerce project is licensed under the MIT License. You are free to use, modify, and distribute the codebase in accordance with the terms and conditions of the license.
-
-<hr>
-
-## ☎️ Contact  
-
-If you have any questions, suggestions, or feedback regarding E-Commerce that Accepts USDC, feel free to contact us at `kiemtran.dev@gmail.com`. I appreciate your interest in the project and will get back to you as soon as possible.
-
-Thank you for your interest in E-Commerce that Accepts USDC. I hope you find the platform useful for selling and monetizing your digital content. Happy selling!
